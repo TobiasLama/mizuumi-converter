@@ -1,0 +1,5 @@
+Move,Damage,Startup,Active,Recovery,Adv Hit,Adv Block
+5A,220,4,4,5,1,−1
+5B,500,6,7,8,1,−1
+f5B,500,6,5,10,1,−1
+5C,650,13,5,18,0,−2
